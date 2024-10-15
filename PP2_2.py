@@ -2,11 +2,13 @@
 
 def q1(): 
   #Write Assignment code here
-
+num = 2
+print("Number is not Five")
 
 def q2(): 
   #Write Assignment code here
-
+num = 3
+print("positive")
 
 
 #Do not alter the following code
